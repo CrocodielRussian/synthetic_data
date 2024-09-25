@@ -1,0 +1,16 @@
+{
+    "card_system" : {
+        "VISA": 0.5,
+        "MASTERCARD": 0.2,
+        "UNIONPAY" : 0.1,
+        "AMERICANEXPRESS" : 0.1,
+        "MIR" : 0.1
+    },
+    "bank" : {
+        "SBERBANK": 0.5,
+        "GAZPROMBANK": 0.1,
+        "OTKRITIE" : 0.1,
+        "RAIFFEISENBANK" : 0.2,
+        "BANKOFCHINA" : 0.1
+    }
+}

@@ -1,0 +1,57 @@
+{ 
+    "cards" : {
+    "MASTERCARD" : 
+        {
+            "SBERBANK" : {
+                "DEBIT" : [522860]
+            },
+            "GAZPROMBANK" : {
+                "CREDIT" : [548999]
+            },
+            "OTKRITIE" : {
+                "CREDIT" : [532301]
+            }
+        }, 
+    "VISA" : 
+    {
+        "GAZPROMBANK" : {
+            "DEBIT" : [404270]
+        },
+        "SBERBANK" : {
+            "DEBIT" : [427920]
+        },
+        "RAIFFEISENBANK" : {
+            "DEBIT" : [462729, 521183]
+        },
+
+        "TINKOFF" : {
+            "CREDIT" : [437773]
+        },
+        "OTKRITIE" : {
+            "CREDIT" : [434146]
+        }
+    },  
+    "AMERICANEXPRESS" : 
+    {
+        "CREDIT" : {
+            "BANKOFAMERICA" : [345691, 346345]
+        }
+    },  
+    "UNIONPAY" : 
+    {
+        "BANKOFCHINA" : {
+            "DEBIT" : [810535],
+            "CREDIT" : [622999]
+        }
+    },  
+    "MIR" : 
+    {
+        "SBERBANK" : {
+            "DEBIT" : [220442],
+            "CREDIT" : [220013]
+        }
+    }
+}
+}
+
+    
